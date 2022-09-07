@@ -1,4 +1,7 @@
-'''NLP endpoint using haystack and FastAPI'''
+'''
+NLP endpoint using haystack and FastAPI
+This code is just an extremely simple endpoint. It's not optimized for parallelism and performance.
+'''
 
 import os
 from typing import Optional
